@@ -1,0 +1,60 @@
+/* .body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbt6VdMm_QFns1MIwhzfvuOCPoDvC9rcidg&usqp=CAU');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    background-color: rgb(73, 73, 73);
+    border-radius: 20px;
+    box-shadow: rgb(53, 53, 53) 10px 10px 1px;
+}
+.cassio{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.form{
+    height: 3cm;
+    width: 11cm;
+    border-radius: 10px;
+    background-color:rgb(170, 218, 219);
+    text-align: right;
+    font-size: 1cm;
+    font-weight: 600;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#b1{
+    width: 2.5cm;
+    height: 1.5cm;
+    background-color: rgb(94, 93, 93);
+    color: white;
+    font-weight: 600;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+#b2{
+    width: 5.3cm;
+    height: 1.5cm;
+    background-color: rgb(94, 93, 93);
+    color: white;
+    font-weight: 600;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
